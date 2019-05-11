@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake", "Snake\Snake.csproj", "{D61AD26B-CF09-4B3F-8089-9BC864E363DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake-WinForms", "Snake-WinForms\Snake-WinForms.csproj", "{D61AD26B-CF09-4B3F-8089-9BC864E363DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
